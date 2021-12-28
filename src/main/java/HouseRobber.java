@@ -1,4 +1,4 @@
-public class HoseRobber {
+public class HouseRobber {
 
     public static void main(String[] args) {
         System.out.println(rob(new int[]{2,7,9,3,1}));
