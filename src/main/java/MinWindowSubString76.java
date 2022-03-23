@@ -1,6 +1,7 @@
 public class MinWindowSubString76 {
 
     public static void main(String[] args) {
+        System.out.println(('z'-'a')+1);
         System.out.println(minWindow("ADOBECODEBANC","ABC"));
     }
 
